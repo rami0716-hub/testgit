@@ -10,3 +10,4 @@
    git push origin main
 
 # cursor() is used to execute query
+
